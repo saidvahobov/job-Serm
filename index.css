@@ -1,0 +1,91 @@
+* {
+    margin: auto;
+    padding-top: 0;
+    list-style: armenian;
+}
+
+nav {
+    width: 1120;
+    margin: 0;
+}
+
+.list_iteam1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #18191F;
+    margin: 10px;
+}
+.list_iteam2{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+font-feature-settings: 'salt' on, 'liga' off;
+
+
+
+color: #18191F;
+}
+
+.textAll {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.list {
+    display: flex;
+}
+
+.btnn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #8C30F5;
+    padding: 10px20px;
+    background-color: antiquewhite;
+    border-radius: 6px;
+    border: none;
+    margin-right: 14px;
+}
+
+.btn {
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 20px;
+    height: 40px;
+    background: #8C30F5;
+    border: none;
+    color: azure;
+    border-radius: 6px;
+}
+.ram{
+    width:1120:
+
+}
+.text span{
+    /* Heading/H1 */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 72px;
+line-height: 98px;
+/* identical to box height, or 136% */
+
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Text / Gray 900 */
+
+color: #18191F;
+
+}
